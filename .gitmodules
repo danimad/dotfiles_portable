@@ -1,0 +1,6 @@
+[submodule "home/danielb/.dircolors"]
+	path = home/danielb/.dircolors
+	url = https://github.com/seebi/dircolors-solarized
+[submodule "dotfiles/.dircolors"]
+	path = dotfiles/.dircolors
+	url = https://github.com/seebi/dircolors-solarized
